@@ -3,8 +3,7 @@ title: Nicole Vasquez
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-layout: splash
-classes:
-  - landing
-  - dark-theme
+minimal_mistakes_skin: neon
+
+
 
