@@ -4,25 +4,28 @@
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 
-#### Technical Skills:
-
+#### habilidades tecnologicas:
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Education
+<!-- mas etiquetas : https://github.com/Ileriayo/markdown-badges/blob/master/README.md-->
+
+
+## Educación
 
 
 
-## Projects online
+## Proyectos online
 
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Apunte de introducción al analisis de datos con **R-studio**
+[Publicación](https://data-analytics-utem.s3.amazonaws.com/index.html)
 
- Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Es un apunte tiene como objetivo de ser un material de apoyo para los estudiantes que cursan el ramo de Data Analytics. Este material tiene un enfoque práctico, para el aprendizaje del lenguaje del programa **R-studio**.  
+![web_r_studio](img/Captura.PNG)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
