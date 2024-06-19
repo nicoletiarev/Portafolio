@@ -24,7 +24,7 @@
 ### Apunte de introducción al analisis de datos con **R-studio**
 [Publicación](https://data-analytics-utem.s3.amazonaws.com/index.html)
 
-Es un apunte tiene como objetivo de ser un material de apoyo para los estudiantes que cursan el ramo de Data Analytics. Este material tiene un enfoque práctico, para el aprendizaje del lenguaje del programa **R-studio**.  
+Es un apunte tiene como objetivo de ser un material de apoyo para los estudiantes que cursan el ramo de Data Analytics. Este material tiene un enfoque práctico, para el aprendizaje del lenguaje del programa **R-studio**.  <br/>
 ![web_r_studio](img/Captura.PNG)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
